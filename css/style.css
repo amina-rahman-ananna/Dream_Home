@@ -38,7 +38,7 @@ padding: 0 15px;
 text-transform: uppercase;}
 /*banner start*/
 .bg_img{
-    background-image: url(../imgages/banner.jpg);
+    background-image: url(./imgages/banner.jpg);
     overflow: hidden;
     background-repeat: no-repeat;
     background-size: cover;
