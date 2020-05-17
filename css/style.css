@@ -38,7 +38,7 @@ padding: 0 15px;
 text-transform: uppercase;}
 /*banner start*/
 .bg_img{
-    background-image: url(./imgages/banner.jpg);
+    background-image: url(../images/banner.jpg);
     overflow: hidden;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,7 +49,7 @@ text-transform: uppercase;}
     margin-bottom: 300px;
     width: 33%;
     padding:30px;
-    background-color:rgb(60, 64, 76,.5);
+    background-color:#3C404B;
 }
 .home h1{
 font-size: 38px;
@@ -69,7 +69,7 @@ font-family: sans-serif;
 width: 120px;
 height: 35px;
 border: none;
-background-color:rgb(60, 64, 76,.8);
+background-color:#3C404B;
 color: white;
 border-radius: 5px;
 cursor: pointer;
